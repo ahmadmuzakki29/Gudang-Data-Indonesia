@@ -12,7 +12,7 @@
 {"provinsi":"Papua","kota":"KAB SUPIORI"},
 {"provinsi":"Papua","kota":"KAB TELUK WONDAMA"},
 {"provinsi":"Papua","kota":"KOTA JAYAPURA"},
-{"provinsi":"Papua","kota":"KOTA SORONG 
+{"provinsi":"Papua","kota":"KOTA SORONG"},
 {"provinsi":"Riau","kota":"KAB KAMPAR"},
 {"provinsi":"Riau","kota":"KAB INDRAGIRI HULU"},
 {"provinsi":"Riau","kota":"KAB BENGKALIS"},
@@ -111,15 +111,15 @@
 {"provinsi":"Gorontalo","kota":"KAB BONE BOLANGO"},
 {"provinsi":"Gorontalo","kota":"KAB POHUWATO"},
 {"provinsi":"Gorontalo","kota":"KOTA GORONTALO"},
-{"provinsi":"Papua Barat","kota":"KAB FAK FAK 
-{"provinsi":"Papua Barat","kota":"KAB SORONG 
+{"provinsi":"Papua Barat","kota":"KAB FAK FAK"},
+{"provinsi":"Papua Barat","kota":"KAB SORONG"},
 {"provinsi":"Papua Barat","kota":"KAB MANOKWARI"},
 {"provinsi":"Papua Barat","kota":"KAB SORONG SELATAN"},
 {"provinsi":"Papua Barat","kota":"KAB RAJA AMPAT"},
 {"provinsi":"Papua Barat","kota":"KAB KAIMANA"},
 {"provinsi":"Papua Barat","kota":"KAB TELUK BINTUNI"},
 {"provinsi":"Papua Barat","kota":"KAB TELUK WONDAMA"},
-{"provinsi":"Papua Barat","kota":"KOTA SORONG 
+{"provinsi":"Papua Barat","kota":"KOTA SORONG"},
 {"provinsi":"Jawa Barat","kota":"KAB BOGOR"},
 {"provinsi":"Jawa Barat","kota":"KAB SUKABUMI"},
 {"provinsi":"Jawa Barat","kota":"KAB CIANJUR"},
@@ -180,7 +180,7 @@
 {"provinsi":"Nusa Tenggara Timur","kota":"KAB MANGGARAI"},
 {"provinsi":"Nusa Tenggara Timur","kota":"KAB SUMBA TIMUR"},
 {"provinsi":"Nusa Tenggara Timur","kota":"KAB SUMBA BARAT"},
-{"provinsi":"Nusa Tenggara Timur","kota":"KAB LEMBATA.
+{"provinsi":"Nusa Tenggara Timur","kota":"KAB LEMBATA"},
 {"provinsi":"Nusa Tenggara Timur","kota":"KAB ROTE NDAO"},
 {"provinsi":"Nusa Tenggara Timur","kota":"KAB MANGGARAI BARAT"},
 {"provinsi":"Nusa Tenggara Timur","kota":"KOTA KUPANG"},
@@ -205,12 +205,12 @@
 {"provinsi":"Bali","kota":"KOTA DENPASAR"},
 {"provinsi":"Jambi","kota":"KAB KERINCI"},
 {"provinsi":"Jambi","kota":"KAB MERANGIN"},
-{"provinsi":"Jambi","kota":"KAB SAROLANGUN 
+{"provinsi":"Jambi","kota":"KAB SAROLANGUN"},
 {"provinsi":"Jambi","kota":"KAB BATANG HARI"},
 {"provinsi":"Jambi","kota":"KAB MUARO JAMBI"},
 {"provinsi":"Jambi","kota":"KAB TANJUNG JABUNG BARAT"},
 {"provinsi":"Jambi","kota":"KAB TANJUNG JABUNG TIMUR"},
-{"provinsi":"Jambi","kota":"KAB BUNGO 
+{"provinsi":"Jambi","kota":"KAB BUNGO"},
 {"provinsi":"Jambi","kota":"KAB TEBO"},
 {"provinsi":"Jambi","kota":"KOTA JAMBI"},
 {"provinsi":"Kalimantan Barat","kota":"KAB SEKADAU"},
@@ -233,9 +233,9 @@
 {"provinsi":"Papua","kota":"KAB PUNCAK JAYA"},
 {"provinsi":"Papua","kota":"KAB WAROPEN"},
 {"provinsi":"Papua","kota":"KAB JAYAPURA"},
-{"provinsi":"Papua","kota":"KAB NABIRE 
-{"provinsi":"Papua","kota":"KAB FAK FAK 
-{"provinsi":"Papua","kota":"KAB SORONG 
+{"provinsi":"Papua","kota":"KAB NABIRE"},
+{"provinsi":"Papua","kota":"KAB FAK FAK"},
+{"provinsi":"Papua","kota":"KAB SORONG"},
 {"provinsi":"Papua","kota":"KAB MANOKWARI"},
 {"provinsi":"Papua","kota":"KAB YAPEN WAROPEN"},
 {"provinsi":"Papua","kota":"KAB BIAK NUMFOR"},
@@ -249,14 +249,14 @@
 {"provinsi":"Sumatra Barat","kota":"KAB AGAM"},
 {"provinsi":"Sumatra Barat","kota":"KAB LIMA PULUH KOTA"},
 {"provinsi":"Sumatra Barat","kota":"KAB PASAMAN"},
-{"provinsi":"Sumatra Barat","kota":"KAB KEPULAUAN MENTAWAI.
+{"provinsi":"Sumatra Barat","kota":"KAB KEPULAUAN MENTAWAI"},
 {"provinsi":"Sumatra Barat","kota":"KAB SOLOK SELATAN"},
 {"provinsi":"Sumatra Barat","kota":"KAB PASAMAN BARAT"},
 {"provinsi":"Sumatra Barat","kota":"KOTA PADANG"},
 {"provinsi":"Sumatra Barat","kota":"KOTA SOLOK"},
 {"provinsi":"Sumatra Barat","kota":"KOTA SAWAHLUNTO"},
 {"provinsi":"Sumatra Barat","kota":"KOTA PADANG PANJANG"},
-{"provinsi":"Sumatra Barat","kota":"KOTA BUKIT TINGGI 
+{"provinsi":"Sumatra Barat","kota":"KOTA BUKIT TINGGI"},
 {"provinsi":"Sumatra Barat","kota":"KOTA PAYAKUMBUH"},
 {"provinsi":"Sumatra Barat","kota":"KOTA PARIAMAN"},
 {"provinsi":"Sumatra Selatan","kota":"KAB OGAN KOMERING ULU"},
@@ -270,7 +270,7 @@
 {"provinsi":"Sumatra Selatan","kota":"KAB OGAN KOMERING ULU TIMUR"},
 {"provinsi":"Sumatra Selatan","kota":"KAB OGAN KOMERING ULU SELATAN"},
 {"provinsi":"Sumatra Selatan","kota":"KOTA PALEMBANG"},
-{"provinsi":"Sumatra Selatan","kota":"KOTA PAGAR ALAM 
+{"provinsi":"Sumatra Selatan","kota":"KOTA PAGAR ALAM"},
 {"provinsi":"Sumatra Selatan","kota":"KOTA LUBUK LINGGAU"},
 {"provinsi":"Sumatra Selatan","kota":"KOTA PRABUMULIH"},
 {"provinsi":"Sulawesi Tengah","kota":"KAB BANGGAI"},
@@ -290,7 +290,7 @@
 {"provinsi":"Sumatra Utara","kota":"KAB LANGKAT"},
 {"provinsi":"Sumatra Utara","kota":"KAB KARO"},
 {"provinsi":"Sumatra Utara","kota":"KAB DELI SERDANG"},
-{"provinsi":"Sumatra Utara","kota":"KAB SIMALUNGUN.
+{"provinsi":"Sumatra Utara","kota":"KAB SIMALUNGUN"},
 {"provinsi":"Sumatra Utara","kota":"KAB ASAHAN"},
 {"provinsi":"Sumatra Utara","kota":"KAB LABUHAN BATU"},
 {"provinsi":"Sumatra Utara","kota":"KAB DAIRI"},
